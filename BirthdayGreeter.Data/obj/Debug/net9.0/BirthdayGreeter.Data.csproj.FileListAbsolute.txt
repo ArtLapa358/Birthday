@@ -1,0 +1,15 @@
+C:\Users\artla\OneDrive\Desktop\Projects\Поздравлятор\BirthdayGreeter.Data\bin\Debug\net9.0\BirthdayGreeter.Data.deps.json
+C:\Users\artla\OneDrive\Desktop\Projects\Поздравлятор\BirthdayGreeter.Data\bin\Debug\net9.0\BirthdayGreeter.Data.dll
+C:\Users\artla\OneDrive\Desktop\Projects\Поздравлятор\BirthdayGreeter.Data\bin\Debug\net9.0\BirthdayGreeter.Data.pdb
+C:\Users\artla\OneDrive\Desktop\Projects\Поздравлятор\BirthdayGreeter.Data\bin\Debug\net9.0\BirthdayGreeter.Domain.dll
+C:\Users\artla\OneDrive\Desktop\Projects\Поздравлятор\BirthdayGreeter.Data\bin\Debug\net9.0\BirthdayGreeter.Domain.pdb
+C:\Users\artla\OneDrive\Desktop\Projects\Поздравлятор\BirthdayGreeter.Data\obj\Debug\net9.0\BirthdayGreeter.Data.csproj.AssemblyReference.cache
+C:\Users\artla\OneDrive\Desktop\Projects\Поздравлятор\BirthdayGreeter.Data\obj\Debug\net9.0\BirthdayGreeter.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artla\OneDrive\Desktop\Projects\Поздравлятор\BirthdayGreeter.Data\obj\Debug\net9.0\BirthdayGreeter.Data.AssemblyInfoInputs.cache
+C:\Users\artla\OneDrive\Desktop\Projects\Поздравлятор\BirthdayGreeter.Data\obj\Debug\net9.0\BirthdayGreeter.Data.AssemblyInfo.cs
+C:\Users\artla\OneDrive\Desktop\Projects\Поздравлятор\BirthdayGreeter.Data\obj\Debug\net9.0\BirthdayGreeter.Data.csproj.CoreCompileInputs.cache
+C:\Users\artla\OneDrive\Desktop\Projects\Поздравлятор\BirthdayGreeter.Data\obj\Debug\net9.0\Birthday.0DB6600C.Up2Date
+C:\Users\artla\OneDrive\Desktop\Projects\Поздравлятор\BirthdayGreeter.Data\obj\Debug\net9.0\BirthdayGreeter.Data.dll
+C:\Users\artla\OneDrive\Desktop\Projects\Поздравлятор\BirthdayGreeter.Data\obj\Debug\net9.0\refint\BirthdayGreeter.Data.dll
+C:\Users\artla\OneDrive\Desktop\Projects\Поздравлятор\BirthdayGreeter.Data\obj\Debug\net9.0\BirthdayGreeter.Data.pdb
+C:\Users\artla\OneDrive\Desktop\Projects\Поздравлятор\BirthdayGreeter.Data\obj\Debug\net9.0\ref\BirthdayGreeter.Data.dll
