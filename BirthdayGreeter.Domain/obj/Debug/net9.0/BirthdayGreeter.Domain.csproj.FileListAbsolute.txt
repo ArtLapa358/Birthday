@@ -1,0 +1,11 @@
+C:\Users\artla\OneDrive\Desktop\Projects\Поздравлятор\BirthdayGreeter.Domain\bin\Debug\net9.0\BirthdayGreeter.Domain.deps.json
+C:\Users\artla\OneDrive\Desktop\Projects\Поздравлятор\BirthdayGreeter.Domain\bin\Debug\net9.0\BirthdayGreeter.Domain.dll
+C:\Users\artla\OneDrive\Desktop\Projects\Поздравлятор\BirthdayGreeter.Domain\bin\Debug\net9.0\BirthdayGreeter.Domain.pdb
+C:\Users\artla\OneDrive\Desktop\Projects\Поздравлятор\BirthdayGreeter.Domain\obj\Debug\net9.0\BirthdayGreeter.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artla\OneDrive\Desktop\Projects\Поздравлятор\BirthdayGreeter.Domain\obj\Debug\net9.0\BirthdayGreeter.Domain.AssemblyInfoInputs.cache
+C:\Users\artla\OneDrive\Desktop\Projects\Поздравлятор\BirthdayGreeter.Domain\obj\Debug\net9.0\BirthdayGreeter.Domain.AssemblyInfo.cs
+C:\Users\artla\OneDrive\Desktop\Projects\Поздравлятор\BirthdayGreeter.Domain\obj\Debug\net9.0\BirthdayGreeter.Domain.csproj.CoreCompileInputs.cache
+C:\Users\artla\OneDrive\Desktop\Projects\Поздравлятор\BirthdayGreeter.Domain\obj\Debug\net9.0\BirthdayGreeter.Domain.dll
+C:\Users\artla\OneDrive\Desktop\Projects\Поздравлятор\BirthdayGreeter.Domain\obj\Debug\net9.0\refint\BirthdayGreeter.Domain.dll
+C:\Users\artla\OneDrive\Desktop\Projects\Поздравлятор\BirthdayGreeter.Domain\obj\Debug\net9.0\BirthdayGreeter.Domain.pdb
+C:\Users\artla\OneDrive\Desktop\Projects\Поздравлятор\BirthdayGreeter.Domain\obj\Debug\net9.0\ref\BirthdayGreeter.Domain.dll
